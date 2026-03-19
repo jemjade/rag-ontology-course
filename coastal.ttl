@@ -94,4 +94,3 @@
 
 :CoastalAccidentPreventionPlan rdf:type owl:Class ;
     rdfs:subClassOf :PreventionPlan .
-```
